@@ -62,11 +62,11 @@ The codes of GAIRD are implemented and tested under the following development en
 ## How to Run the Code
 1. Data Preprocessing: generating training set, test set, adjacency matrix, attribute matrix, shortest path distance matrix
     ```
-    preprocessing.py
+    python preprocessing.py
     ```
 2. Train and test the model.
     ```
-    main.py
+    python main.py
     ```
 
 The other details can be seen in the paper and the codes.
